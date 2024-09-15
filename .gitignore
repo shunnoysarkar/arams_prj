@@ -1,0 +1,4 @@
+# ROS workspace-related ignores
+build/
+install/
+log/
